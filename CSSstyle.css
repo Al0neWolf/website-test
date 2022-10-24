@@ -1,0 +1,26 @@
+html{
+    background-image:url("space3.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+h1{
+    border-style: solid;
+    padding: 5px;
+    border-width: 10px;
+    border-radius: 10px;
+}
+.special{
+    color: gold;
+    font-family: sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16;
+    text-decoration:overline;
+}
+
+#paragraph2{
+
+    font-family: Aldrich;
+}
